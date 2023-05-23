@@ -1,0 +1,15 @@
+[
+	{
+		"title": "gato",
+		"description": "naranja",
+		"category": "mascotas",
+		"price": 1000,
+		"thumbnail": [
+			"/gatonaranja"
+		],
+		"code": "2",
+		"stock": 122,
+		"status": true,
+		"id": 1
+	}
+]

@@ -11,5 +11,130 @@
 		"stock": 122,
 		"status": true,
 		"id": 1
-	}
+	},
+	{
+		"title": "perro",
+		"description": "negro",
+		"category": "mascotas",
+		"price": 1500,
+		"thumbnail": [
+		"/perronegro"
+		],
+		"code": "5",
+		"stock": 85,
+		"status": true,
+		"id": 2
+		},
+		
+		{
+		"title": "loro",
+		"description": "verde",
+		"category": "mascotas",
+		"price": 500,
+		"thumbnail": [
+		"/loroverde"
+		],
+		"code": "3",
+		"stock": 50,
+		"status": true,
+		"id": 3
+		},
+		
+		{
+		"title": "pez",
+		"description": "azul",
+		"category": "mascotas",
+		"price": 200,
+		"thumbnail": [
+		"/pezazul"
+		],
+		"code": "8",
+		"stock": 200,
+		"status": true,
+		"id": 4
+		},
+		
+		{
+		"title": "conejo",
+		"description": "blanco",
+		"category": "mascotas",
+		"price": 800,
+		"thumbnail": [
+		"/conejoblanco"
+		],
+		"code": "1",
+		"stock": 75,
+		"status": true,
+		"id": 5
+		},
+		
+		{
+		"title": "hamster",
+		"description": "marrón",
+		"category": "mascotas",
+		"price": 300,
+		"thumbnail": [
+		"/hamstermarron"
+		],
+		"code": "4",
+		"stock": 100,
+		"status": true,
+		"id": 6
+		},
+		
+		{
+		"title": "serpiente",
+		"description": "amarilla",
+		"category": "mascotas",
+		"price": 1200,
+		"thumbnail": [
+		"/serpienteamarilla"
+		],
+		"code": "9",
+		"stock": 30,
+		"status": true,
+		"id": 7
+		},
+		
+		{
+		"title": "tortuga",
+		"description": "verde",
+		"category": "mascotas",
+		"price": 400,
+		"thumbnail": [
+		"/tortugaverde"
+		],
+		"code": "6",
+		"stock": 60,
+		"status": true,
+		"id": 8
+		},
+		
+		{
+		"title": "hámster",
+		"description": "gris",
+		"category": "mascotas",
+		"price": 250,
+		"thumbnail": [
+		"/hamstergris"
+		],
+		"code": "7",
+		"stock": 90,
+		"status": true,
+		"id": 9
+		},
+		
+		{
+		"title": "gato",
+		"description": "negro",
+		"category": "mascotas",
+		"price": 900,
+		"thumbnail": [
+		"/gatonegro"
+		],
+		"code": "10",
+		"stock": 105,
+		"status": true,
+		"id": 10
+		}
 ]

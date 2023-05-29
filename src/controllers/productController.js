@@ -27,7 +27,7 @@ class ProductController {
       const productData = await this.productManager.getProducts();
       const limit = Number(req.query.limit);
 
-      if (isNaN(limit)) {
+      if (isNaN(limit) || limit === undefined) {
         return res.json(productData);
       }
 

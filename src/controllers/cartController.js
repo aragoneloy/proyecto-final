@@ -1,5 +1,5 @@
-import CartManager from "../managers/cartManager.js";
-import ProductManager from "../managers/productManager.js";
+import CartManager from "../dao/managers/cartManager.js";
+import ProductManager from "../dao/managers/productManager.js";
 import Joi from "joi";
 
 const schema = Joi.object({
